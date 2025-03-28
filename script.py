@@ -4,8 +4,6 @@ from sj4000 import camera as Camera
 
 camera = Camera()
 
-
-
 def start_movie():
     print("Trying start movie")
     stat, mode= camera.get_mode()

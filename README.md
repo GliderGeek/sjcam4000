@@ -6,8 +6,11 @@ I have an sjcam4000 action camera, which i want to use during cycling to record 
 - [x] Being able to start and stop video recording from script on laptop
 - [ ] Test how long camera can idle with wifi active
 - [x] Make basic python app with simple GUI
+  - [ ] implement checking connection
 - [ ] Make basic iphone app
-- [ ] Combine in iphone app
+  - [ ] beeware tutorial: https://docs.beeware.org/en/latest/tutorial/tutorial-0.html
+  - [ ] make sure xcode old mac + new iphone combo works: https://chatgpt.com/share/67e6a12c-2ef0-8012-aed1-7f55c35ea605
+- [ ] Combine all in iphone app
 
 extra
 [ ] Download movies/pictures from device
