@@ -2,11 +2,12 @@
 I have an sjcam4000 action camera, which i want to use during cycling to record parts of the ride. It is positioned on my helmet, which makes it difficult to operate since the display is not accessible. In this project i build an iphone app which is able to control the camera from my phone, which is positioned on my handlebars.
 
 ## Goals / steps
-[x] Being able to start and stop video recording from script on laptop
-[ ] Test how long camera can idle with wifi active
-[x] Make basic python app with simple GUI
-[ ] Make basic iphone app
-[ ] Combine in iphone app
+
+- [x] Being able to start and stop video recording from script on laptop
+- [ ] Test how long camera can idle with wifi active
+- [x] Make basic python app with simple GUI
+- [ ] Make basic iphone app
+- [ ] Combine in iphone app
 
 extra
 [ ] Download movies/pictures from device
